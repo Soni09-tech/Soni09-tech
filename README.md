@@ -1,6 +1,6 @@
 # Hi 👋, I'm Soni Kumari
 
-🎓 Third Year (6th sem) B.Tech CST Student  
+🎓 Third Year  B.Tech CST Student  
 💻 Passionate about Data Structures & Algorithms  
 🚀 Aspiring Software Engineer (Target: Google / Microsoft / Deloitte)  
 
