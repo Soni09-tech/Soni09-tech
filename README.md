@@ -48,8 +48,15 @@
 - Developed a Java-based application for managing smart city services
 - Features: User management, service tracking, data handling
 
-### 🔹 Project 2: (Add your project)
-- Description here
+### 🔹 Project 2: 🤖 AI-Based Maze Solver
+🔗 Live Demo: https://ai-based-maze-solver.vercel.app/
+
+- Built an interactive maze-solving visualizer using AI algorithms  
+- Implemented pathfinding algorithms like **BFS, DFS, and A\***  
+- Visualizes shortest path in real-time  
+- Strengthened understanding of graph traversal and optimization  
+
+Tech Stack: JavaScript, HTML, CSS
 
 ---
 
